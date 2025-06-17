@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Faiq 👋</h1>
 
-<!--
-**faiqisthis/faiqisthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>MERN Stack Developer | Computer Science Student | Tech Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🎓 Currently in my 6th semester of a **Computer Science** degree
+- 🧑‍💻 Passionate about building web apps with the **MERN stack**
+- ⚡ Focused on writing clean code and delivering responsive, accessible UIs
+- 🧠 Always learning — currently exploring **Next.js**, **Framer Motion**, and **API development**
+- 🛠️ I love debugging, optimizing performance, and working on frontend polish like padding/margin QA
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faiqisthis&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqisthis&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [faiqisthis](https://www.linkedin.com/in/faiqisthis)
+- Portfolio: [faiqisthis.dev](https://faiqisthis.dev) <!-- if not live, remove this line -->
+- Email: faiq@example.com <!-- replace with real one or remove -->
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.”_
