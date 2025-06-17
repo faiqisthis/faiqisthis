@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-- 🎓 Currently in my 6th semester of a **Computer Science** degree
+- 🎓 Recently passed my 6th semester of a **Computer Science** degree
 - 🧑‍💻 Passionate about building web apps with the **MERN stack**
 - ⚡ Focused on writing clean code and delivering responsive, accessible UIs
 - 🧠 Always learning — currently exploring **Next.js**, **Framer Motion**, and **API development**
@@ -19,7 +19,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,next,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </div>
 
 ---
@@ -36,8 +36,8 @@
 ## 📫 Let's Connect
 
 - LinkedIn: [faiqisthis](https://www.linkedin.com/in/faiqisthis)
-- Portfolio: [faiqisthis.dev](https://faiqisthis.dev) <!-- if not live, remove this line -->
-- Email: faiq@example.com <!-- replace with real one or remove -->
+- Portfolio: [faiqisthis.dev](https://faiq-ahmad.vercel.app) <!-- if not live, remove this line -->
+- Email: faiqueahmad476@gmail.com <!-- replace with real one or remove -->
 
 ---
 
