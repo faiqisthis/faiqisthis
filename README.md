@@ -36,7 +36,7 @@
 ## 📫 Let's Connect
 
 - LinkedIn: [faiqisthis](https://www.linkedin.com/in/faiqisthis)
-- Portfolio: [faiqisthis.dev](https://faiq-ahmad.vercel.app) <!-- if not live, remove this line -->
+- Portfolio: [Faiq Ahmad](https://faiq-ahmad.vercel.app) <!-- if not live, remove this line -->
 - Email: faiqueahmad476@gmail.com <!-- replace with real one or remove -->
 
 ---
