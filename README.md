@@ -11,7 +11,7 @@
 - 🎓 Recently passed my 6th semester of a **Computer Science** degree
 - 🧑‍💻 Passionate about building web apps with the **MERN stack**
 - ⚡ Focused on writing clean code and delivering responsive, accessible UIs
-- 🧠 Always learning — currently exploring **Next.js**, **Framer Motion**, and **API development**
+- 🧠 Always learning — currently exploring **Next.js**, **Kotlin**, and **TypeScript**
 - 🛠️ I love debugging, optimizing performance, and working on frontend polish like padding/margin QA
 
 ---
