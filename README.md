@@ -8,7 +8,6 @@
 
 ## 💻 About Me
 
-- 🎓 Recently passed my 6th semester of a **Computer Science** degree
 - 🧑‍💻 Passionate about building web apps with the **MERN stack**
 - ⚡ Focused on writing clean code and delivering responsive, accessible UIs
 - 🧠 Always learning — currently exploring **Next.js**, **Kotlin**, and **TypeScript**
